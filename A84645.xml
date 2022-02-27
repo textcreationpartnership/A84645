@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another letter from His Excellency Sir Thomas Fairefax to the Speaker of the House of Commons, of His Majesties removall from Childersley to New-Market, and the grounds thereof. Also an narrative of a conference at Childersley with His Majesty; His Excellency Sir Thomas Fairefax, Lieutenant Generall Crumwell, &amp;c. and commissioners for the Parliament about His Majesties removeall thence to New-market, and what past at this conference betwixt His Majesty and the Generall, and the commissioners for the Parliament, and the summe of their speeches. Also the new rendezvous of the army upon Tripole Heath neare Royston, June 8. 1647. Published for the generall satisfaction of the kingdome.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84645</idno>
+            <idno type="STC">Wing F134</idno>
+            <idno type="STC">Thomason E392_11</idno>
+            <idno type="STC">ESTC R201564</idno>
+            <idno type="EEBO-CITATION">99862064</idno>
+            <idno type="PROQUEST">99862064</idno>
+            <idno type="VID">160277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160277)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another letter from His Excellency Sir Thomas Fairefax to the Speaker of the House of Commons, of His Majesties removall from Childersley to New-Market, and the grounds thereof. Also an narrative of a conference at Childersley with His Majesty; His Excellency Sir Thomas Fairefax, Lieutenant Generall Crumwell, &amp;c. and commissioners for the Parliament about His Majesties removeall thence to New-market, and what past at this conference betwixt His Majesty and the Generall, and the commissioners for the Parliament, and the summe of their speeches. Also the new rendezvous of the army upon Tripole Heath neare Royston, June 8. 1647. Published for the generall satisfaction of the kingdome.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Chapman,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of three documents; two are signed by Fairfax, the third is signed: T.H.</note>
+                  <note>The pages are numbered: (unnumbered), (unnumbered), (illegible), 2, 3, 6, 3, 6.</note>
+                  <note>Annotation on Thomason copy: "June 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160277:1" rendition="simple:additions"/>
+            <p>Another LETTER FROM His Excellency Sir <hi>Thomas Fairefax</hi> to the Speaker of the Houſe of Commons, of His Majeſties removall from <hi>Childerſley</hi> to <hi>New-Market,</hi> and the grounds thereof.</p>
+            <p>Alſo an Narrative of a Conference at <hi>Childerſley</hi> with His Majeſty; His Excellency Sir <hi>Thomas Fairefax,</hi> Lieutenant Generall <hi>Crumwell,</hi> &amp;c. and the Commiſſioners for the Parliament about His Majeſties removeall thence to NEW-MARKET,</p>
+            <p>And what paſt at this Conference betwixt His Majeſty and the Generall, and Commiſſioners for the Parliament, and the ſumme of their Speeches.</p>
+            <p>Alſo the New Rendezvous of the Army upon <hi>Tripole</hi> Heath neare <hi>Royſton,</hi> June 8. 1647.</p>
+            <p>Publiſhed for the Generall ſatisfaction of the Kingdome.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Lawrence Chapman,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160277:2"/>
+            <pb n="3" facs="tcp:160277:2"/>
+            <opener>
+               <salute>Maſter Speaker.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt I promiſed to ſend you by the next an account of the proceedings and reſolutions of the Army at the late Randezvous: I have ſent you the ſame in two Papers unanimouſly a<g ref="char:EOLhyphen"/>greed upon there, by both Officers and Souldiers: I finde in one of them divers things which your latter proceedings ſince the reſolvtion of diſ<g ref="char:EOLhyphen"/>banding may have given ſatisfaction unto, but the Ar<g ref="char:EOLhyphen"/>my having then no knowledge thereof; it was thus paſſed and delivered to me, and I cannot but ſend it to them; you may ſee what they then did remaine un<g ref="char:EOLhyphen"/>ſatisfied in; Underſtanding that His Majeſty and your Commiſſioners were much ſtraightened and diſacco<g ref="char:EOLhyphen"/>modated in the Houſe at <hi>Childerſley;</hi> I went thither yeſterday to adviſe with your Commiſſioners about the diſpoſall of his Majeſty for more conveniency to to himſelfe and them, then that place did afford; the Commiſſioners were pleaſed wholly to refuſe giving of any adviſe or opinion at all in the buſineſſe, and therefore the King declaring His Reſolution, not to goe back to <hi>Holdenby</hi> unleſſe he were inforced, yet complaining much of the inconveniency he ſuffered, whereby he was and preſſing for a remove to <hi>New-Market,</hi> and your Commiſſioners not judging it in<g ref="char:EOLhyphen"/>convenient for him to be there: I ordered Colonell <hi>Whalley</hi> this day to attend His Majeſty, and the Co<g ref="char:EOLhyphen"/>miſſioners thither, with truſty and ſufficient Guard of two Regiments of Horſe, which accordingly was this day done, and His Majeſty with the Commiſſioners
+<pb n="2" facs="tcp:160277:3"/> gone to <hi>New-Market,</hi> but not through <hi>Cambridge:</hi> This buſineſſe taking up the whole time yeſterday, and it being neceſſary His Majeſty ſhould be diſpoſed of before the place of Randezvous could well be re<g ref="char:EOLhyphen"/>ſolved on. This morning at a Councell of Warre it was judged inconvenient, and ſcarce poſſible to draw to a Randezvous to morrow early enough to diſpatch any thing; therefore it is appointed on Thurſday morning at nine of the Clock, and in regard of His Majeſty going to <hi>New-Market,</hi> it was thought fit by the Councell of warre, That the place of Randezvous might be altered from <hi>New-Market</hi> Heath to <hi>Triploe</hi> Heath, five miles from this Towne; I ſhall take care that your Commiſſioners if they come to <hi>New-Market</hi> may have notice of this alteration from the former ap<g ref="char:EOLhyphen"/>pointment, I remaine</p>
+            <closer>
+               <signed>Your moſt humble Servant,<hi>Tho: Fairefax.</hi>
+               </signed>
+               <dateline>Cambridge <date>June 8. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the Honourable Houſe of Commons.</trailer>
+         </div>
+         <div type="warrant">
+            <head>A Copy of the Warrant from his Excellency, Sir <hi>Tho: Fairfax</hi> to Colonell <hi>Whaley,</hi> to attend His Majeſty with his own, and the Lievtenant Generals Regiment of Horſe from <hi>Childerſley</hi> to <hi>New-Market.</hi>
+            </head>
+            <p>THe Kings Majeſty being ſecured by a party of horre of this Army, upon ſuppoſition of a deſigne or ſe<g ref="char:EOLhyphen"/>cret intention, to convey away His Majeſty without either my conſent or knowledge, and brought unto
+<pb n="3" facs="tcp:160277:3"/> the Lady <hi>Cutts</hi> her houſe at <hi>Childerſley,</hi> that place be<g ref="char:EOLhyphen"/>ing not able to afford conveniencies for His Majeſty, and Commiſſioners attending upon him, and His Ma<g ref="char:EOLhyphen"/>jeſty declaring himſelfe, That He will not returne to <hi>Holdenby</hi> except he be forct there unto; and alſo the Commiſſioners of Parliament wholly refuſing to ad<g ref="char:EOLhyphen"/>viſe or propoſe any way for the preſent accommoda<g ref="char:EOLhyphen"/>tion of His Majeſty (though they were thereunto earneſtly deſired by me) that might conduce t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſecurity of His perſon or purſuance of what other in<g ref="char:EOLhyphen"/>ſtructions they have received from the Parliament, alleaging their Authority to be already determined at returne from <hi>Holdenby:</hi> And His Majeſty having therefore been importunate to goe to His Houſe at <hi>New-Market,</hi> and the Commiſſioners not Judging it inconvenient for him to remaine there; I have order<g ref="char:EOLhyphen"/>ed Colonell <hi>Whalley</hi> ſhall to morrow attend His Ma<g ref="char:EOLhyphen"/>jeſty and the Commiſſioners thither with a ſufficient and truſty Guard for His ſecurity, untill the Parlia<g ref="char:EOLhyphen"/>ments pleaſure ſhall be further knowne: And for which purpoſe I have ſent to receive their Commands herein.</p>
+            <p>Colonell <hi>Whalley,</hi> I deſire you to attend His Ma<g ref="char:EOLhyphen"/>jeſty, and the Commiſſioners according to theſe directions, with the Lievtenant Generalls and your own Regiment of Horſe.</p>
+            <closer>
+               <dateline>Given under my hand at <hi>Cambridge</hi> 
+                  <date>the 8. of <hi>June,</hi> 1647.</date>
+               </dateline>
+               <signed>Tho: Fairefax.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:160277:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YEſterday the Generall, Lieutenant Generall, Commiſſary Generall <hi>Ireton,</hi> Lieut. Gen. <hi>Ham<g ref="char:EOLhyphen"/>mond,</hi> and divers other Officers of the army, went to the Lady <hi>Cuts</hi> houſe (according to His Maje<g ref="char:EOLhyphen"/>ſties deſire the day before,) when they came there, they were (according to the uſuall manner,) received by the King but with little reſpect; after ſome generall di courſe of things, The King went into the Garden, and the Generall and his Officers and the Commiſſio<g ref="char:EOLhyphen"/>ners went together, and conferred upon the whole car<g ref="char:EOLhyphen"/>riage of the buſineſſe; The Commiſſioners ſeem'd to be much unſatisfied, whereupon the King comming up againe, the Generall and the Commiſſioners came to Him, and Cornet <hi>Joyce</hi> (who was the man that ma<g ref="char:EOLhyphen"/>naged that action of ſecuring the King) was called be<g ref="char:EOLhyphen"/>fore them all; <hi>The King charged them with ſaying, He had the commiſſion of the whole Army for what He did, and by conſequence had the Generalls; Hee being the principall part of the Army:</hi> The Cornet replyed and did avow, <hi>He told His Majeſty he had not the Generalls commiſſion, when the King did particularly demand it of him, and that the King askt him by what commiſſion he did come to ſecure Him:</hi> He anſwer'd <hi>the King if He pleaſed to looke about he might ſee his authority (meaning the Troopers that were ready mounted)</hi> whereupon the King publiquely ſaid to the whole company, <hi>That it was true indeed He did ſay ſo, and it was likewiſe true all the Gentlemen that were mounted on horſe back did cry out, <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ng their approbation to what He ſaid, but ſaith the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>g I was notwithſtanding perſwaded, that he could not <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>are to attempt ſuch a thing, as to bring me away, but
+<pb n="3" facs="tcp:160277:4"/> he had the countenance of greater perſons;</hi> Then M. <hi>Crew</hi> and Sir <hi>Iohn Cook</hi> extreamly preſt againſt Cornet <hi>Ioyce,</hi> That he deſerved to looſe his head for what hee had done, and that he had injured the Parliament, the Generall, the Army, and the Commſſioners with the King, and had brought them away without their con<g ref="char:EOLhyphen"/>ſent; whereupon Cornet <hi>Joyce</hi> replyed, <hi>That the King gave his conſent to come, and ſaid He would go whether the commiſſioners would or no, and that the commiſſioners alſo gave their conſent to go, and that he told them, He would not bring them without their conſent, and deſired them to go for the better accommodation of His Majeſty,</hi> I, ſaid the King, and the Commiſſioners <hi>you told us, That we ſhould go, and then it was in vaine for us not to conſent,</hi> But ſaith the King <hi>now I am come; I had the promiſe of thoſe Gentlemen to be</hi> conveyed to Newmarket, <hi>I take them to be men of their words, and were I a meer ſtranger met upon the high way, and ſtopt from going on, none in civility but would provide conveniencies for Me, here I have none, &amp; therefore I expect to go to morrow morning to Newmarket, and deſire Sir</hi> Tho. Fairfax <hi>and his officers to confer toge<g ref="char:EOLhyphen"/>ther about it: for the commiſſioners ſay, they have no power at all further to diſpoſe of Me, for their power ended at Hol<g ref="char:EOLhyphen"/>denby, and was limitted to that place though the commiſ<g ref="char:EOLhyphen"/>ſioners be the ſame?</hi> Whereupon the Generall and the Officers withdraw, and confer'd together, and after<g ref="char:EOLhyphen"/>wards returned to his Majeſty and told Him, (as they did at the beginning) he was removed from Holdenby without their private knowledge, or conſent, yet not<g ref="char:EOLhyphen"/>withſtanding ſince he was unwilling to go back if the Commſſioners preſent with Him would condeſcend: The Generall would not be againſt his going to New<g ref="char:EOLhyphen"/>market: ſaith the King; <hi>This is a flat deniall for the com<g ref="char:EOLhyphen"/>miſſioners
+<pb n="6" facs="tcp:160277:5"/> ſay they have no power, and therefore you will not ſhew your power; if you will not do it I will try theſe Genle<g ref="char:EOLhyphen"/>men that brought Me, I ſuppoſe they are tender of their reputation, and will not fayle to waite upon Me to Newmar<g ref="char:EOLhyphen"/>ket:</hi> The Generall promiſed to go to Cambridge, and returne him a poſitive anſwer the laſt night; There was variety of diſcourſe beſides this, too large to men<g ref="char:EOLhyphen"/>tion: I ſhall onely obſerve this in generall, That the King is politique and ſubtle to lay hold upon any thing for his owne advantage, either to comply with the Army, or Commiſsioners to be againſt either as He ſees it worke for his ends and very high and poſi<g ref="char:EOLhyphen"/>tive in his expreſſions and demands. The laſt night after his Excellency came back to Cambridge, he ſent this incloſed to Col. <hi>Whaley</hi> (after ſome debate with the Officers) by way of Anſwer to His Majeſties de<g ref="char:EOLhyphen"/>ſires according to promiſe and ingagement. This day accordingly His Majeſty went from Childerſley, he in<g ref="char:EOLhyphen"/>tended by the way of Cambridge, but his Excellency perceiving ſome inconveniencies would happen up<g ref="char:EOLhyphen"/>on it: ſent to Col. <hi>Whalley</hi> to guard Him to Newmar<g ref="char:EOLhyphen"/>ket ſome other way, and ſo he went by Trumping<g ref="char:EOLhyphen"/>ton: Here was much preparation for His Majeſty by ſtrewing the ſtreetes, cutting downe of boughes and preparing for benefiers. The E. of <hi>Nottingham</hi> and the other Commiſſioners lay at Puckridge laſt night, they ſent to the Generall to day, to know where to meete Him, the Generall deſired at Cambridge, by reaſon the Randezvouz is deferred till to morrow, and then to be upon Triploe-heath and not at Newmarket heath by reaſon of the Kings being there,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>J reſt Your humble ſervant. <hi>T. H</hi>
+               </signed>
+               <dateline>Cambridge <date>June 8. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
